@@ -6,7 +6,7 @@
 
 👨‍💻 Skills: data preprocessing, research data analysis, data visualization, descriptive statistics, testing statistical hypotheses, cohort analysis, unity-economy, product metrics, A/B testing, event analytics, dashboards, machine learning, classification, clustering.
 
-👨‍🎓 Studied at the Financial University under the government of the Russian Federation in the direction of "Economics" and Yandex.A workshop in the direction of "Data analyst".
+👨‍🎓 Studied at the Financial University under the government of the Russian Federation in the direction of "Economics" and Yandex.Practicum in the direction of "Data analyst".
 
 ⚽️ Support Arsenal FC.
 
