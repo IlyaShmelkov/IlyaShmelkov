@@ -1,6 +1,6 @@
 👋 Hi, I’m @IlyaShmelkov
 
-📈 Data analyst. I lile and know how to work with large amounts of data, process and structure them, visualize the results obtained and give recommendations for business development. You can view my projects in the repository.
+📈 Data analyst. I like and know how to work with large amounts of data, process and structure them, visualize the results obtained and give recommendations for business development. You can view my projects in the repository.
 
 👀 Looking for a job.
 
