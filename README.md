@@ -2,7 +2,7 @@
 
 📈 Data analyst. I like and know how to work with large amounts of data, process and structure them, visualize the results obtained and give recommendations for business development. You can view my projects in the repository.
 
-👀 Looking for a job.
+👀 Work at "Tetrika".
 
 👨‍💻 Skills: data preprocessing, research data analysis, data visualization, descriptive statistics, testing statistical hypotheses, cohort analysis, unity-economy, product metrics, A/B testing, event analytics, dashboards, machine learning, classification, clustering.
 
